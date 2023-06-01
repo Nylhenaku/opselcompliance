@@ -1,0 +1,57 @@
+<?php $TemplateConfig = array (
+  'htmlClass' => 'koTheme2',
+  'headerClass' => 'logoLeft',
+  'bodyClass' => '',
+  'headerData' => 'data-background="data/files/person-using-black-tablet-computer-3740399123.jpg" data-parallax="1"  class=" parallax-window  kfilter1 " style="background: url(data/files/person-using-black-tablet-computer-3740399123.jpg) no-repeat 50% 0px;background-size:cover"',
+  'footerData' => 'data-bgcolor="#212121" data-background="data/files/Brand/orangefooter.png" style="background:#212121 url(data/files/Brand/orangefooter.png) no-repeat 50% 0px;background-size:cover"',
+  'headerFilter' => '',
+  'themeSet' => '3',
+  'menuClass' => 'koMenu1',
+  'gFont1' => 'Allerta',
+  'gFont2' => 'Allerta',
+  'gFont1_apply' => '#website h1,#website h2,#website #content h3,#website .topmenu',
+  'gFont2_apply' => '#website,#website p',
+  'gFontPair' => 'custom',
+  'footer' => '<div data-pcid="1251" id="kpg_176392" class="kedit text-center keditRow koZeroPadding">
+
+
+<div data-pcid="1252" id="kpg_531253" class="kedit keditRow koZeroPadding" >
+
+  <div class="row">
+        <div class="col-sm-3 keditColumn">
+            <div class="kedit keditDark" id="kpg_171887" ><div class="keditable keditable-auto"><span style="font-family: helvetica, arial, sans-serif;">&nbsp;<strong>NEWS</strong>:</span></div></div>
+        </div>
+        <div class="col-sm-6 keditColumn text-center ui-sortable">
+          <div class="kedit keditDark" id="kpg_292833" ><div class="keditable"><strong><span style="font-family: helvetica, arial, sans-serif;">QUICK LINKS</span></strong>
+<div>&nbsp;</div>
+<div><a href="http://opsel.co.uk/">Home</a></div>
+<div><a href="about">About</a></div>
+<div><a href="services">Services</a></div>
+<div><a href="courses">Courses</a></div>
+<div><a href="news">News</a></div>
+<div><a href="contact">Contact</a><br><br><span style="font-family: helvetica, arial, sans-serif;">(c)2020, All Rights Reserved</span></div>
+</div></div>
+        </div>
+        <div class="col-sm-3 keditColumn">
+            <div class="kedit keditDark" id="kpg_63774" ><div class="keditable keditable-auto"><span style="font-family: helvetica, arial, sans-serif;"><strong>CONTACT</strong></span></div>
+<div class="keditable keditable-auto">&nbsp;</div>
+<div class="keditable keditable-auto"><span style="font-family: helvetica, arial, sans-serif;">Opsel Compliance Consultancy Services, Ltd,&nbsp;</span></div>
+<div class="keditable keditable-auto"><span style="font-family: helvetica, arial, sans-serif;">34 Chaffinch Avenue,&nbsp;</span></div>
+<div class="keditable keditable-auto"><span style="font-family: helvetica, arial, sans-serif;">Croydon,&nbsp;</span></div>
+<div class="keditable keditable-auto"><span style="font-family: helvetica, arial, sans-serif;">CR0 7SE</span></div>
+<div class="keditable keditable-auto">&nbsp;</div>
+<div class="keditable keditable-auto"><span style="font-family: helvetica, arial, sans-serif;">+44 (0)7950377849&nbsp;</span></div>
+<div class="keditable keditable-auto">&nbsp;</div>
+<div class="keditable keditable-auto"><span style="font-family: helvetica, arial, sans-serif;">info@opselcompliance.com&nbsp;</span></div>
+<div class="keditable keditable-auto">&nbsp;</div>
+<div class="keditable keditable-auto"><span style="font-family: helvetica, arial, sans-serif;">&nbsp;Opsel Compliance Consultancy Services, Ltd, registered in England with company number 11570294. Registered address:&nbsp;34 Chaffinch Avenue, Croydon, CR0 7SE</span></div></div>
+        </div>
+    </div>
+</div><div class="kedit" id="kpg_755335" data-bgcolor="rgba(255,255,255,0.3)" style="background:rgba(255,255,255,0.3)"><div class="keditable keditable-auto">{%footer%}</div></div>
+
+</div>',
+  'header' => '<div data-pcid="1203" id="kpg_246723" class="kedit headerBanner keditRight keditDark" data-align="keditRight"><p class="keditable" style="font-size: 20px;"><span style="font-size: 14pt; color: #fafafa;"><strong><span style="font-size: 18pt;">Welcome to Opsel Compliance Consultancy Services Ltd. Financial Crime Compliance Advisors and Trainers.</span> </strong></span></p>
+<h1 class="koTitle keditable"><span style="font-family: helvetica, arial, sans-serif;"><strong>We are passionate about Financial Crime Prevention.</strong></span></h1>
+<h3 class="keditable"><br><br><br><br></h3></div>',
+  'customCode' => '<style>.logo{text-transform:uppercase}</style>',
+); ?>

@@ -1,0 +1,1 @@
+id;title;description;body;datestart;dateend;highlight;category;image;comments;eventtype;repeatDay;repeatMonth;repeatYear;repeatExtra;z1;z2;z3;z4;z5;

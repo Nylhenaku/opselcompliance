@@ -1,0 +1,93 @@
+{
+    "hostname": "wsbackups2.lhr.stackcp.net",
+    "date": "2022-03-01 18:20:46",
+    "key": "b428041d6733cbf9629aa94c3becf26a3fc6bb12",
+    "virtual_host_id": 806867,
+    "databases": [
+        {
+            "MySqlGrantId": 1244741,
+            "VirtualHostId": 806867,
+            "MySqlDatabaseId": 1060561,
+            "MySqlUserId": 1173191,
+            "Privileges": [
+                "SELECT",
+                "INSERT",
+                "UPDATE",
+                "DELETE",
+                "CREATE",
+                "DROP",
+                "INDEX",
+                "ALTER",
+                "LOCK TABLES",
+                "EXECUTE",
+                "CREATE VIEW",
+                "SHOW VIEW",
+                "CREATE ROUTINE",
+                "ALTER ROUTINE",
+                "CREATE TEMPORARY TABLES"
+            ],
+            "Owner": "20ihostingprovision",
+            "Comments": null,
+            "DatabaseName": "wordpress-313233b3d0",
+            "Username": "wordpress-313233b3d0",
+            "MySQLGrant": "GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, INDEX, ALTER, LOCK TABLES, EXECUTE, CREATE VIEW, SHOW VIEW, CREATE ROUTINE, ALTER ROUTINE, CREATE TEMPORARY TABLES ON `wordpress-313233b3d0`.* TO 'wordpress-313233b3d0'@'%' IDENTIFIED BY PASSWORD '*13753F9AB3D1A8713A735344B9F1213749D96D71';"
+        },
+        {
+            "MySqlGrantId": 1418179,
+            "VirtualHostId": 806867,
+            "MySqlDatabaseId": 1203189,
+            "MySqlUserId": 1333289,
+            "Privileges": [
+                "SELECT",
+                "INSERT",
+                "UPDATE",
+                "DELETE",
+                "CREATE",
+                "DROP",
+                "INDEX",
+                "ALTER",
+                "LOCK TABLES",
+                "EXECUTE",
+                "CREATE VIEW",
+                "SHOW VIEW",
+                "CREATE ROUTINE",
+                "ALTER ROUTINE",
+                "CREATE TEMPORARY TABLES"
+            ],
+            "Owner": "20ihostingprovision",
+            "Comments": null,
+            "DatabaseName": "wordpress-313331e74d",
+            "Username": "wordpress-313331e74d",
+            "MySQLGrant": "GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, INDEX, ALTER, LOCK TABLES, EXECUTE, CREATE VIEW, SHOW VIEW, CREATE ROUTINE, ALTER ROUTINE, CREATE TEMPORARY TABLES ON `wordpress-313331e74d`.* TO 'wordpress-313331e74d'@'%' IDENTIFIED BY PASSWORD '*BEBA8651E888F983FA2C2030A94A58894382C281';"
+        },
+        {
+            "MySqlGrantId": 1418265,
+            "VirtualHostId": 806867,
+            "MySqlDatabaseId": 1203225,
+            "MySqlUserId": 1333369,
+            "Privileges": [
+                "SELECT",
+                "INSERT",
+                "UPDATE",
+                "DELETE",
+                "CREATE",
+                "DROP",
+                "INDEX",
+                "ALTER",
+                "LOCK TABLES",
+                "EXECUTE",
+                "CREATE VIEW",
+                "SHOW VIEW",
+                "CREATE ROUTINE",
+                "ALTER ROUTINE",
+                "CREATE TEMPORARY TABLES"
+            ],
+            "Owner": "20ihostingprovision",
+            "Comments": null,
+            "DatabaseName": "wordpress-313331b0f6",
+            "Username": "wordpress-313331b0f6",
+            "MySQLGrant": "GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, INDEX, ALTER, LOCK TABLES, EXECUTE, CREATE VIEW, SHOW VIEW, CREATE ROUTINE, ALTER ROUTINE, CREATE TEMPORARY TABLES ON `wordpress-313331b0f6`.* TO 'wordpress-313331b0f6'@'%' IDENTIFIED BY PASSWORD '*B0775B22C32D44985886FA8D33E69DD82C6C87DE';"
+        }
+    ],
+    "v": 2
+}
